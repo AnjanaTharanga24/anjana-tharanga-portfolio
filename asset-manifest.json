@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anjana-tharanga-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/anjana-tharanga-portfolio/static/js/main.dadab661.js",
+    "main.js": "/anjana-tharanga-portfolio/static/js/main.4604dbbf.js",
     "static/media/HeroImage.jpg": "/anjana-tharanga-portfolio/static/media/HeroImage.3b7dd5a64e1ab21f3581.jpg",
     "index.html": "/anjana-tharanga-portfolio/index.html",
     "main.bf538fe7.css.map": "/anjana-tharanga-portfolio/static/css/main.bf538fe7.css.map",
-    "main.dadab661.js.map": "/anjana-tharanga-portfolio/static/js/main.dadab661.js.map"
+    "main.4604dbbf.js.map": "/anjana-tharanga-portfolio/static/js/main.4604dbbf.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.dadab661.js"
+    "static/js/main.4604dbbf.js"
   ]
 }
