@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "homepage": "https://AnjanaTharanga24.github.io/anjana-tharanga-portfolio",
+  "name": "anjana-tharanga-portfolio",
   "version": "0.1.0",
-  "homepage": "",
   "private": true,
   "dependencies": {
     "": "file:",
